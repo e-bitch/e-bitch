@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://suicides.tech/"><span>argentina</span></a> ☆
+  <a href="https://suicides.tech/"><span>tlou fan</span></a> ☆
   <a href="https://suicides.tech/"><span>sexy teenager</span>
 </p>
 
