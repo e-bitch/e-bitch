@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://suicides.tech/"><span>tlou fan</span></a> ☆
-  <a href="https://suicides.tech/"><span>sexy teenager</span>
+  <a href="https://suicides.tech/"><span>fraud</span></a> ☆
+  <a href="https://suicides.tech/"><span>tax evasion</span>
 </p>
 
 
@@ -14,5 +14,5 @@
       CPU  :  AMD Ryzen 5 3600 (12) @ 3.600GHz
       GPU  :  NVIDIA GeForce GTX 1660 SUPER
      Lang  :  Python, Js
-   Memory  :  7320MiB / 16268MiB
+   Memory  :  16268MiB
 ```
