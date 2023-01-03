@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://suicides.tech/"><img src="https://rule34.xxx/counter/1.gif"></a>
-  <a href="https://suicides.tech/"><img src="https://rule34.xxx/counter/5.gif"></a>
+  <img src="https://count.getloli.com/get/@:name" alt=":name" />
 </p>
 
 <p align="center">
