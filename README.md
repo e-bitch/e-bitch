@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@:name" alt=":name" />
+  <img src="https://count.getloli.com/get/@:e-bitch" alt=":e-bitch" />
 </p>
 
 <p align="center">
