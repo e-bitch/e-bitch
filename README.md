@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://suicides.tech/"><span>fraud</span></a> ☆
-  <a href="https://suicides.tech/"><span>tax evasion</span>
+  <a href="https://suicides.tech/"><span>Discordian</span></a> ☆
+  <a href="https://suicides.tech/"><span>Professional coder</span>
 </p>
 
 
