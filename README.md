@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://suicides.tech/"><span>Discordian</span></a> ☆
-  <a href="https://suicides.tech/"><span>Professional coder</span>
+  <a href=""><span>Discordian</span></a> ☆
+  <a href=""><span>Professional coder</span>
 </p>
 
 
