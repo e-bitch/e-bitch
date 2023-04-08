@@ -11,7 +11,7 @@
 ```python
        OS  :  Windows 11 Pro
       CPU  :  AMD Ryzen 5 3600 (12) @ 3.600GHz
-      GPU  :  NVIDIA GeForce GTX 1660 SUPER
+      GPU  :  NVIDIA GeForce RTX 2060
      Lang  :  Python, Js
    Memory  :  16268MiB
 ```
