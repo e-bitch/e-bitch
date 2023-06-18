@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href=""><span>Discordian</span></a> ☆
-  <a href=""><span>Professional coder</span>
+  <a href=""><span>Rich</span></a> ☆nd
+  <a href=""><span>Sexy</span>
 </p>
 
 
